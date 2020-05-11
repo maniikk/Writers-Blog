@@ -1,9 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 //import './index.css';
-import Header from './Components/Header/Header'
-import App from './Components/App'
+import App from './TestApp/Components/App'
+import RegisterForm from './Components/RegisterForm'
 import * as serviceWorker from './serviceWorker';
+import {BrowserRouter as Router, Route} from 'react-router-dom'
 
 ReactDOM.render(
   <React.StrictMode>

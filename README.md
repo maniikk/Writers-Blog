@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Also uses [json-server](https://github.com/typicode/json-server) to run a simple server for testing.
+Some components from [material-ui](https://material-ui.com/) are also used to beautify and provide functionality.
+Just for my own learning.
 ## Available Scripts
 
 In the project directory, you can run:
